@@ -6,12 +6,12 @@ Diabetic retinopathy (DR) is one of the leading causes of vision loss. Early det
 
 The project uses a data set that has been employed in the APTOS 2019 Blindness Detection competition on Kaggle and is available for the download at the [competition website](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 
-File `report.pdf` contains a detailed description of the project pipeline.
+File `report.pdf` contains a detailed description of the project pipeline. This project has been completed within the scope of Udacity ML Engineer Nanodegree program.
 
 
 ## Project structure
 
-The project has the follwoing structure:
+The project has the following structure:
 - `codes/`: jupyter notebooks with codes for different project stages: data preparation, modeling and ensembling.
 - `efficientnet-pytorch/`: module with EfficientNet weights pre-trained on ImageNet. The weights are not included due to the size constraints and can be downloaded from [here](https://www.kaggle.com/hmendonca/efficientnet-pytorch).
 - `figures/`: figures exported from the jupyter notebooks during the data preprocessing and training.
