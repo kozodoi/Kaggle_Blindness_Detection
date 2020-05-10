@@ -12,7 +12,7 @@ The project works with data from multiple sources, including credit bureau infor
 
 The project has the follwoing structure:
 - `codes/`: jupyter notebooks with codes for different project stages: data preparation, modeling and ensembling.
-- `efficientnet-pytorch`: module with EfficientNet weights pre-trained on ImageNet. The weights are not included due to the size constraints and can be downloaded from [here](https://www.kaggle.com/hmendonca/efficientnet-pytorch).
+- `efficientnet-pytorch/`: module with EfficientNet weights pre-trained on ImageNet. The weights are not included due to the size constraints and can be downloaded from [here](https://www.kaggle.com/hmendonca/efficientnet-pytorch).
 - `figures/`: figures exported from the jupyter notebooks during the data preprocessing and training.
 - `input/`: input data including the main data set and the supplementary data set. The images are not included due to size constraints. The main data set can be downloaded [here](https://www.kaggle.com/c/aptos2019-blindness-detection/data). The supplementary data is available [here](https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized).
 - `models/`: model weights saved during training.
