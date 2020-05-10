@@ -25,7 +25,7 @@ There are four notebooks:
 - `code_3_training.ipynb`: fine-tuning the CNN model on the main 2019 data set.
 - `code_4_inference.ipynb`: classifying test images with the trained model.
 
-More details are provided within the notebooks.
+More details are provided within the notebooks as well as in the `report.pdf` file.
 
 
 ## Requirments
