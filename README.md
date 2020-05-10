@@ -5,7 +5,7 @@
 
 Diabetic retinopathy (DR) is one of the leading causes of vision loss. Early detection and treatment are crucial steps towards preventing DR. This project onsiders DR detection as an ordinal classification task and aims at developing a deep learning model for predicting the severity of DR disease based on the patient's retina photograph. 
 
-The project uses a data set that has been employed in the APTOS 2019 Blindness Detection competition on Kaggle and is available for the download at the competition website: \url{https://www.kaggle.com/c/aptos2019-blindness-detection/data}.
+The project uses a data set that has been employed in the APTOS 2019 Blindness Detection competition on Kaggle and is available for the download at the [competition website](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 
 
 ## Project structure
