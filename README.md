@@ -7,6 +7,8 @@ Diabetic retinopathy (DR) is one of the leading causes of vision loss. Early det
 
 The project uses a data set that has been employed in the APTOS 2019 Blindness Detection competition on Kaggle and is available for the download at the [competition website](https://www.kaggle.com/c/aptos2019-blindness-detection/data).
 
+File `report.pdf` contains a detailed description of the project pipeline.
+
 
 ## Project structure
 
