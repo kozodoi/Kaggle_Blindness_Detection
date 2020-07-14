@@ -8,6 +8,8 @@ The project uses a data set that has been employed in the APTOS 2019 Blindness D
 
 This project has been completed within the scope of Udacity ML Engineer Nanodegree program.
 
+The walkthrough covering the important project stages is availabled in [this blogpost](https://kozodoi.github.io/blog/python/deep%20learning/computer%20vision/2020/07/11/blindness-detection.html)
+
 
 ## Project structure
 
