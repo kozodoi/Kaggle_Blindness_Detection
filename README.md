@@ -1,5 +1,7 @@
 # Detecting Blindness with Deep Learning
 
+![sample](https://i.postimg.cc/Y9MDPvGq/Screen-2021-03-19-at-11-52-06.jpg)
+
 ## Project summary
 
 Diabetic retinopathy (DR) is one of the leading causes of vision loss. Early detection and treatment are crucial steps towards preventing DR. This project considers DR detection as an ordinal classification task and aims at developing a deep learning model for predicting the severity of DR disease based on the patient's retina photograph.
@@ -20,10 +22,10 @@ The project has the following structure:
 - `submissions/`: predictions produced by the trained models.
 
 There are four notebooks:
-- `code_1_data_exploration.ipynb`: data exploration and visualization.
-- `code_2_pre_training.ipynb`: pre-training the CNN model on the supplementary 2015 data set.
-- `code_3_training.ipynb`: fine-tuning the CNN model on the main 2019 data set.
-- `code_4_inference.ipynb`: classifying test images with the trained model.
+- `code_1_data_exploration.ipynb`: data exploration and visualization
+- `code_2_pre_training.ipynb`: pre-training the CNN model on the supplementary 2015 data set
+- `code_3_training.ipynb`: fine-tuning the CNN model on the main 2019 data set
+- `code_4_inference.ipynb`: classifying test images with the trained model
 
 More details are provided within the notebooks as well as in the `report.pdf` file.
 
