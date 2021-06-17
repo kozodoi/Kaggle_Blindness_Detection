@@ -1,6 +1,6 @@
 # Detecting Blindness with Deep Learning
 
-![sample](https://i.postimg.cc/Y9MDPvGq/Screen-2021-03-19-at-11-52-06.jpg)
+![sample](https://i.postimg.cc/dVjwCDr2/blindness.png)
 
 ## Project summary
 
