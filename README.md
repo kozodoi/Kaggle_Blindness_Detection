@@ -8,13 +8,14 @@ Diabetic retinopathy (DR) is one of the leading causes of vision loss. Early det
 
 The project has been completed within the scope of [Udacity ML Engineer Nanodegree](https://confirm.udacity.com/LMMJDA7C) program. We use data employed in the [APTOS 2019 Blindness Detection competition](https://www.kaggle.com/c/aptos2019-blindness-detection/data) on Kaggle.
 
-A detailed walkthrough covering important project stages is available in [this blogpost](https://kozodoi.me/python/deep%20learning/computer%20vision/competitions/2020/07/11/blindness-detection.html). File `report.pdf` also contains a detailed PDF description of the project pipeline.
+A detailed walkthrough covering important project stages is available in [this blog post](https://kozodoi.me/python/deep%20learning/computer%20vision/competitions/2020/07/11/blindness-detection.html). File `report.pdf` also contains a detailed PDF description of the project pipeline.
 
 
 ## Project structure
 
 The project has the following structure:
-- `codes/`: notebooks with codes for different project stages: data preparation, modeling and ensembling.
+- `codes/`: codes with modules and functions implementing preprocessing, datasets, model and utilities.
+- `notebooks/`: notebooks covering different project stages: data preparation, modeling and ensembling.
 - `efficientnet-pytorch/`: module with EfficientNet weights pre-trained on ImageNet. The weights are not included due to the size constraints and can be downloaded from [here](https://www.kaggle.com/hmendonca/efficientnet-pytorch).
 - `figures/`: figures exported from the notebooks during the data preprocessing and training.
 - `input/`: input data including the main data set and the supplementary data set. The images are not included due to size constraints. The main data set can be downloaded [here](https://www.kaggle.com/c/aptos2019-blindness-detection/data). The supplementary data is available [here](https://www.kaggle.com/tanlikesmath/diabetic-retinopathy-resized).
@@ -30,7 +31,7 @@ There are four notebooks:
 More details are provided within the notebooks as well as in the `report.pdf` file.
 
 
-## Requirments
+## Requirements
 
 To run the project codes, you can create a new virtual environment in `conda`:
 
